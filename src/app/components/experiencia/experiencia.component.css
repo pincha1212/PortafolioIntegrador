@@ -2,8 +2,14 @@
     padding: 20px;
 }
 div{
-    background-color: red;
+    background-color: white;
 }
 h1,h3{
     display: inline;
+    background-color: blue;
+    color: white;
+}
+p,p span{
+    background-color: blue;
+    color: white;
 }
