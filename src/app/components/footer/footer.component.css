@@ -1,8 +1,7 @@
 .row{
-    background-color: white;
+    background-color: red;
 }
 footer{
-    background-color: blue;
     color: #fefefe;
     font-size: 14px;
     display: flex;

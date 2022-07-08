@@ -1,9 +1,7 @@
 .row{
-    background-color: white;
+    background-color: red;
     padding: 20px;
 }
 h1{
     text-align: center;
-    background-color: blue;
-    color: white;
 }

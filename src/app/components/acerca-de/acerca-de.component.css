@@ -5,14 +5,6 @@ div{
     background-color: red;
     text-align: center;
 }
-p{
-    background-color: blue;
-    color: white;
-}
-h1{
-    background-color: blue;
-    color: white;
-}
 
 /*Estilo de la fot de perfil*/
 @media (min-width: 576px){
