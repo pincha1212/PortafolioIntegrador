@@ -13,9 +13,3 @@ span#tr{
     padding: 20px;
 }
 
-@media (max-width: 768px) {
-    .tareas{
-    justify-content: flex-start;
-    float: center;
-}
-}

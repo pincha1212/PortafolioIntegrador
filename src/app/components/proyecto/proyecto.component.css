@@ -8,7 +8,11 @@
 .parte1, .parte2{
     display: inline-block;
     text-align: justify;
+    color: white;
 }
 .img-proyecto{
     box-shadow: 10px 10px 30px black;
+}
+h1{
+    color: white;
 }
