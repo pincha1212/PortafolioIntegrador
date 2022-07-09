@@ -2,8 +2,20 @@
     padding: 20px;
 }
 div{
-    background-color: red;
+    background-color: white;
 }
 h1,h3{
     display: inline;
+}
+
+span#tr{
+    font-size: 20px;
+    padding: 20px;
+}
+
+@media (max-width: 768px) {
+    .tareas{
+    justify-content: flex-start;
+    float: center;
+}
 }
