@@ -1,6 +1,11 @@
+div.container{
+    margin: 0px;
+    padding: 0px;
+    justify-content: space-around;
+
+}
 .container {
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 .redes{
@@ -12,9 +17,15 @@
 }
 img{
     width: 50px;
+    margin: 10px;
 }
 .btn{
+    margin-left: 8px;
+    margin-top: 14px;
     border-width: medium;
+    color: white;
+    border-color: white;
+    margin-bottom: 14px;
 }
 
 /* Para la vista en moviles */
